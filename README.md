@@ -11,12 +11,6 @@ A modern, responsive e-commerce web application built with React and Vite.
 
 ---
 
-\
-\
-/
-
-
-
 ## 🚀 Live Demo
 
 > Coming soon — deploy to Vercel or Netlify for a public link.
