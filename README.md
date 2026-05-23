@@ -1,6 +1,10 @@
+
 # E-commerce
+
 ## 🚀 Live Demo
+
 [Click here to view the demo](http://localhost:5173)
+
 # 🛍️ E-Commerce Frontend
 
 A modern, responsive e-commerce web application built with React and Vite.
