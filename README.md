@@ -11,6 +11,10 @@ A modern, responsive e-commerce web application built with React and Vite.
 
 ---
 
+\
+\
+/
+
 
 
 ## 🚀 Live Demo
