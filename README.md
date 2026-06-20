@@ -1,7 +1,3 @@
-
-
-
-
 # E-commerce
 
 ## 🚀 Live Demo
